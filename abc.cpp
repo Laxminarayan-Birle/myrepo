@@ -1,4 +1,6 @@
 // https://leetcode.com/problems/bitwise-ors-of-subarrays/
+#include<bits/stdc++.h>
+using namespace std;
 class Solution
 {
 public:
